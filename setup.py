@@ -10,6 +10,7 @@ setup(
     setup_requires=[
         'pytest-runner',
         'icalendar',
+        'twilio',
     ],
     tests_require=[
         'pytest',
